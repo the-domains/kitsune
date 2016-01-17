@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Kitsune]]></title>
         <description><![CDATA[Kitsune]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kitsune/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 20:55:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 21:13:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kitsune/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedcc327036-25d7-43bc-b62f-90cccd91467d/index.html</link>
+            <description><![CDATA[<p>Unfreezing cold air with my breath</p>]]></description>
+            <link>https://thegrid.ai/kitsune/cc327036-25d7-43bc-b62f-90cccd91467d/index.html</link>
             <guid isPermaLink="false">cc327036-25d7-43bc-b62f-90cccd91467d</guid>
-            <pubDate>Sat, 16 Jan 2016 20:53:04 GMT</pubDate>
+            <pubDate>Sat, 16 Jan 2016 21:11:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
