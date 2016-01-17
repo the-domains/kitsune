@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kitsune]]></title>
         <description><![CDATA[Kitsune]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kitsune/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 02:19:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 02:23:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kitsune/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>High Priestess</p>]]></description>
+            <link>https://thegrid.ai/kitsune/9e16af56-5719-4dca-8565-1b3c5f4ce8ff/index.html</link>
+            <guid isPermaLink="false">9e16af56-5719-4dca-8565-1b3c5f4ce8ff</guid>
+            <pubDate>Sun, 17 Jan 2016 02:23:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76066da1-9cb4-4005-ab66-e3466237b5bc.jpg">]]></description>
-            <link>undefined82ec9787-7c82-4fd2-a3cc-b6969cd47ef8/index.html</link>
+            <link>https://thegrid.ai/kitsune/82ec9787-7c82-4fd2-a3cc-b6969cd47ef8/index.html</link>
             <guid isPermaLink="false">82ec9787-7c82-4fd2-a3cc-b6969cd47ef8</guid>
             <pubDate>Sun, 17 Jan 2016 02:19:42 GMT</pubDate>
         </item>
