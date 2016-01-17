@@ -1,0 +1,28 @@
+name: Kitsune
+favicon: null
+layout_spectrum: 0.7973588709719479
+typography_spectrum: 0.007695212960243225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#d5bf9a'
+    - '#1f3c40'
+    - '#010101'
+    - '#bc6601'
+  brandStrength: 0.7495470596477389
+  lightness: 0.3874224463943392
+  saturation: 0.5466014517005533
+  rhythmicContrast: 0.13606477831490338
+purpose: []
