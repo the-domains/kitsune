@@ -1,18 +1,28 @@
-analytics: {}
+name: Kitsune
+favicon: null
+layout_spectrum: 0.69286
+typography_spectrum: 0.35639
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#D8B0B0'
-    - '#500008'
-    - '#986870'
-    - '#B04800'
-    - '#D09898'
+    - '#ffffff'
+    - '#d5bf9a'
+    - '#1f3c40'
+    - '#010101'
+    - '#bc6601'
   brandStrength: 0.979729
   lightness: 0.708333
-  rhythmicContrast: 0.66554
   saturation: 0.546601
-cta: {}
-layout_spectrum: 0.69286
-name: Kitsune
-opengraph: {}
+  rhythmicContrast: 0.66554
 purpose: []
-typography_spectrum: 0.35639
